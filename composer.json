@@ -1,5 +1,5 @@
 {
     "require": {
-        "altorouter/altorouter": "^2.0"
+        "izniburak/router": "^2.2"
     }
 }
