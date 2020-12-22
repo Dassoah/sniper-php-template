@@ -13,7 +13,6 @@
             return $string;
         }
     
-        // Fonction pour debug une variable en détail et mieux organiser
         public static function debug($variable){
             echo '<pre>'. print_r($variable, true) .'</pre>';
         }
