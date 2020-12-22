@@ -6,6 +6,5 @@
     require "libraries/Session.php";
     Session::start();
     require "controllers/Controller.php";
-    require "vendor/autoload.php";
 
     require "routes.php";
